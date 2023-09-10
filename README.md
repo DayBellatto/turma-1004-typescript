@@ -44,4 +44,4 @@ Abra um pull request no GitHub.
 - Contato :email:
 Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato.
 
-- Github Profile: [Júlio César Silvestre](https://github.com/DayBellatto) :octocat:
+- Github Profile: [Daiana Oliveira Bellatto](https://github.com/DayBellatto) :octocat:
