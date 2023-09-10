@@ -16,15 +16,6 @@ Projeto refatorado a partir do codigo fornecido pela Thaliaoliveira
 - javascript
 - TypeScript
 
-1. Clone o repositório para o seu ambiente local:
-
-```bash
-git clone https://github.com/juliocsilvestre/github-finder.git
-cd github-finder
-npm install
-npm start
-```
-- Abra o navegador e vá para http://localhost:3000 para ver a aplicação em execução.
 
 - Contribuindo :raised_hands:
 Se você deseja contribuir com este projeto, siga os passos abaixo:
